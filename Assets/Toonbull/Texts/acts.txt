@@ -1,0 +1,29 @@
+Murder;-4
+Theft;-3
+Genocide;-5
+Slander;-2
+Gossip;-1
+Robbery;-3
+Cursing;-1
+Drive Drunk;-3
+Overspeeding;-3
+Cyber Bullying;-2
+Tax Evasion;-3
+Lie;-2
+Voyeurism;-3
+Nuke;-5
+Bad Parenting;-3
+Charity;3
+Help Seniors;3
+Recycle;2
+Help the Handicaped;3
+Save a Life;4
+Honesty;2
+Compliment;2
+Obey Law;3
+Inspire People;2
+Gifting;2
+Honest Work;2
+Kindness;1
+Good Parenting;3
+Forgiveness;3
